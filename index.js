@@ -49,6 +49,9 @@ for (var i = 0; i<numberofButton; i++) {
 
 }
 
+addEventListener("keypress",function (event) {
+    console.log(event);
+})
 
 
 
